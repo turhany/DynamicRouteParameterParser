@@ -2,8 +2,6 @@
 ------------------------------
 ![alt tag](/img/dynamicrouteparameterparser.png)  
 
-MonolithicSync is a simple lock management library for .NET monolithic applications.
-
 Little package for parse route and querystring parameters.
 
 [![NuGet version](https://badge.fury.io/nu/DynamicRouteParameterParser.svg)](https://badge.fury.io/nu/DynamicRouteParameterParser)
