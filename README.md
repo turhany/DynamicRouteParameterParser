@@ -1,5 +1,5 @@
 #   **Dynamic Route Parameter Parser**
-------------------------------
+
 ![alt tag](/img/dynamicrouteparameterparser.png)  
 
 Little package for parse route and querystring parameters.
