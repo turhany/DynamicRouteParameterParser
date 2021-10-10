@@ -4,7 +4,7 @@
 
 Little package for parse route and querystring parameters.
 
-[![NuGet version](https://badge.fury.io/nu/DynamicRouteParameterParser.svg)](https://badge.fury.io/nu/DynamicRouteParameterParser)
+[![NuGet version](https://badge.fury.io/nu/DynamicRouteParameterParser.svg)](https://badge.fury.io/nu/DynamicRouteParameterParser)  ![Nuget](https://img.shields.io/nuget/dt/DynamicRouteParameterParser)
 
 #### Features:
 - Parse url query string parameters   
