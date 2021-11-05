@@ -43,5 +43,11 @@ Little package for parse route and querystring parameters.
 
 ### Release Notes
 
+#### 1.0.2
+* When url contains "." on route section it broke parse and it fixed
+
+#### 1.0.1
+* Description updates
+
 #### 1.0.0
 * Base release
