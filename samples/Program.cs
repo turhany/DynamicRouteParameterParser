@@ -9,6 +9,7 @@ namespace DynamicRouteParameterParser.Samples
         {
             var routeTemplate = "http://www.turhanyildirim.com/{year}/{month}/{day}/{pageName}/";
             var sampleUrl = "http://www.turhanyildirim.com/2018/02/10/coklu-ortama-loglama-icin-basit-bir-yaklamis-autofac/?section=code";
+            
             var parser = new Parser.DynamicRouteParameterParser(routeTemplate);
             var parseResult = parser.ParseRoute(sampleUrl);
             

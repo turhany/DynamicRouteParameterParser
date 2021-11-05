@@ -99,6 +99,7 @@ namespace DynamicRouteParameterParser.Parser
                     string.Format(AppConstants.VariableTokenPattern, variable));
             }
 
+            formatUrl = formatUrl.Replace(".", "\\.");
             var regex = new Regex(formatUrl, RegexOptions.IgnoreCase);
             var matchCollection = regex.Match(baseRoute);
 
